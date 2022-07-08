@@ -24,7 +24,8 @@
 <br>
 <br>
 
- <h3>Contact Me</h3>
+<div align="center">
+  <hr>
   <a href="https://naver.com">
       <img src="http://img.shields.io/badge/Tech Blog-black?style=for-the-badge&logo=github"/>
   </a> 
@@ -37,5 +38,6 @@
   <a href="mailto:cji1336@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=Gmail"/>
   </a>
+</div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:414345,100:232526&height=170&section=footer)
