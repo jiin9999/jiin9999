@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:414345,100:232526&height=170&section=header&text=jiin9999&fontAlignY=36&fontColor=ffffff&fontSize=45&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:414345,100:232526&height=100&section=header&text=jiin9999&fontAlignY=36&fontColor=ffffff&fontSize=30&animation=fadeIn)
 
 
 <div align = "center">
@@ -36,4 +36,4 @@
   </a>
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:414345,100:232526&height=170&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:414345,100:232526&height=100&section=footer)
