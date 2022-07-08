@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:414345,100:232526&height=110&section=header&text=jiin9999&fontAlignY=25&fontColor=ffffff&fontSize=25&animation=fadeIn)
 
 
-<div align = "center">
+<div align="center">
   <a href="https://github.com/cji1336"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiin9999&langs_count=10&theme=dracula"></a>
   <h2>공부중인 기술</h2>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -9,14 +9,14 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-  
+</div>
+
+<div align="center">
   <h2>공부예정인 기술</h2>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 </div>
-
-
 <br>
 <br>
 
