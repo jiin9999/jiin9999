@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:414345,100:232526&height=100&section=header&text=jiin9999&fontAlignY=36&fontColor=ffffff&fontSize=15&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:414345,100:232526&height=100&section=header&text=jiin9999&fontAlignY=20&fontColor=ffffff&fontSize=20&animation=fadeIn)
 
 
 <div align = "center">
