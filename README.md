@@ -22,7 +22,7 @@
 
 <!--Contact Me-->
 <div align=center>
-  <h2>Contact Me</h2>
+  <h3>Contact Me</h3>
   <a href="https://naver.com">
       <img src="http://img.shields.io/badge/Tech Blog-black?style=for-the-badge&logo=github"/>
   </a> 
