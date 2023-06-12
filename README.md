@@ -15,7 +15,7 @@
 <br>
 
 <div align="center">
-  <hr>
+<!--   <hr>
   <a href="https://naver.com">
       <img src="http://img.shields.io/badge/Tech Blog-black?style=for-the-badge&logo=github"/>
   </a> 
@@ -24,7 +24,7 @@
   </a>
   <a href="https://instagram.com/jiin1336/">
     <img src="http://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram"/>
-  </a> 
+  </a>  -->
   <a href="mailto:cji1336@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=Gmail"/>
   </a>
