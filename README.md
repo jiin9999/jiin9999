@@ -3,7 +3,7 @@
 
 <div align="left">
 <!--   <a href="https://github.com/cji1336"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiin9999&langs_count=10&theme=dracula"></a> -->
-  <p>자바 기반의 풀스택 과정 중, 프론트엔드에 빠져 JavaScript, React, Next.js를 이용한 프로젝트들을 진행했습니다.</p> 
+  <p>프론트엔드에 빠져 JavaScript, React, Next.js를 이용한 프로젝트들을 진행했습니다.</p> 
   <p>최근에는 빠르게 제품을 만들고 시장에서 테스트하는 MVP 개발과 적은 리소스로 높은 생산성을 가질 수 있는 </p>
   <p>크로스 플랫폼인 React-Native에 관심이 많습니다.</p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
